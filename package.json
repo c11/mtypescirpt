@@ -1,0 +1,33 @@
+{
+  "name": "mtypescirpt",
+  "version": "1.0.0",
+  "description": "exploring integration of typescript with angularjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c11/mtypescirpt.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "AngularJS"
+  ],
+  "author": "Yang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/c11/mtypescirpt/issues"
+  },
+  "homepage": "https://github.com/c11/mtypescirpt#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-tslint": "^4.3.1",
+    "gulp-typescript": "^2.10.0",
+    "tslint": "^3.3.0",
+    "typescript": "^1.7.5"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}

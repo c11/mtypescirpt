@@ -1,0 +1,28 @@
+{
+  "name": "mtypescirpt",
+  "description": "exploring integration of typescript with angularjs",
+  "main": "index.js",
+  "authors": [
+    "Yang"
+  ],
+  "license": "Apache-2.0",
+  "keywords": [
+    "TypeScript",
+    "AngularJS"
+  ],
+  "homepage": "https://github.com/c11/mtypescirpt",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.4.1"
+  }
+}
