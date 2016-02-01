@@ -1,0 +1,2 @@
+# mtypescirpt
+Exploring TypeScript
